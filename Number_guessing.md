@@ -1,7 +1,7 @@
 # Number-Guessing-game-
 By running this Python code you will there is a number Guessing game as an output
 
-#
+#Generates random number 
 import random
 
 n = random.randint(1, 100)
